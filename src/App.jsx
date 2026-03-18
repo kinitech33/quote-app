@@ -1,7 +1,9 @@
 import { Routes, Route, Link } from "react-router-dom"
 
 function Home() {
-  return <h2>Home Page - Quotes Coming Soon</h2>
+  return <>
+  <h2>Home Page - Quotes Coming Soon</h2>
+  <p>yoo 222</p></>
 }
 
 function Favorites() {

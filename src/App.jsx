@@ -9,7 +9,11 @@ function Favorites() {
 }
 
 function About() {
-  return <h2>About Page</h2>
+  return <>
+  <h2>About Page was here</h2>
+  <p>kjfnknnfnandn</p>
+  </>
+  
 }
 
 function App() {
